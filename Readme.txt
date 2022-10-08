@@ -1,4 +1,4 @@
-All source codes attached on the github.
+All source codes attached on the github. Can't upload any file more than 20MB, so all images had been deleted.
 This TMA project had implementated on the following address:
 http://student.athabascau.ca/~baofenzh/
 
